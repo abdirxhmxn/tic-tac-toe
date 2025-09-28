@@ -133,7 +133,7 @@ Improvements welcome! Focus areas:
 
 <div align="center">
 
-**[Play Now](https://yourusername.github.io/tic-tac-toe-game)** | **[View Code](https://github.com/yourusername/tic-tac-toe-game)**
+**[Play Now](https://abdirxhmxn.github.io/tic-tac-toe)** | **[View Code](https://github.com/abdirxhmxn/tic-tac-toe)**
 
 *Built with ❤️ to explore OOP in JavaScript*
 
