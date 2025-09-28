@@ -2,7 +2,6 @@
 
 > **Modern twist on the timeless classic** – Enhanced Tic-Tac-Toe with immersive audio, smooth animations, and clean UI.
 
-![Game Status](https://img.shields.io/badge/Status-Ready%20to%20Play-brightgreen) ![Tech Stack](https://img.shields.io/badge/Built%20with-HTML%20%7C%20CSS%20%7C%20JavaScript-blue)
 
 ## ✨ Features
 
